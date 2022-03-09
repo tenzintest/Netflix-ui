@@ -1,0 +1,26 @@
+{
+  "name": "netflix-ui",
+  "version": "1.0.0",
+  "description": "Netflix ui ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:tailwinds": "tailwind build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenzintest/Netflix-ui.git"
+  },
+  "author": "enkun-team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tenzintest/Netflix-ui/issues"
+  },
+  "homepage": "https://github.com/tenzintest/Netflix-ui#readme",
+  "devDependencies": {
+    "tailwindcss": "^2.1.4"
+  },
+  "dependencies": {
+    "browserlist": "^1.0.1"
+  }
+}
