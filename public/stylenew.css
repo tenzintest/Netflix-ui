@@ -1,0 +1,16 @@
+.bgCover {
+    background-repeat: no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0),rgba(0,0,0,0.9)),url('./imgs/netflix-back.png');
+    height: 600px;
+    background-size: cover;
+}
+
+.widthInput{
+    width: 500px;
+    background: none;
+    padding: none;
+}
+
+.inputBox{
+    width: 500px;
+}
