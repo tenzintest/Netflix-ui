@@ -20,10 +20,20 @@ module.exports = {
       },
       width: {
         '25': '9rem',
+        '30': '15rem',
         '128': '32rem',
+        '96': '18rem',
+        '120': '25rem',
+        '100': '12.5rem',
+        '90': '9.375rem',
+
       },
       maxHeight: {
         '128': '72rem',
+      },
+      spacing: {
+        '3px': '210px',
+        '2px': '50px' 
       }
     },
     fontFamily: {
@@ -32,3 +42,10 @@ module.exports = {
   },
   plugins: [],
 }
+
+
+// width: 15rem;
+// position: relative;
+// bottom: 210px;
+// left: 50px;
+// top: ;
