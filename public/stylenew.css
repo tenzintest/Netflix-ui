@@ -21,8 +21,6 @@
 }
 
 
-
-
 @media all and (min-width: 1134px) and (max-width: 1280px) {
     .videoPic{
         width: 350px;
@@ -35,12 +33,15 @@
     .videoPic{
         width: 350px;
     }
+
+    
 }
  
 @media all and (min-width: 480px) and (max-width: 768px) { 
     .videoCen {
         text-align: none;
     }
+
     
 }
  
