@@ -21,6 +21,35 @@
 }
 
 
+/*footer*/
+
+.footer{
+    margin-top: 500px !important;
+    max-width:75%;
+    margin:1rem auto;
+    overflow:auto;
+}
+
+.footer, .footer a{
+    color:#757575;
+    font-size:0.8rem;
+}
+.footer, .footer a:hover{
+    color:#fff;
+    font-size:0.9rem;
+}
+.footer p{
+    margin-bottom:1.5rem;
+}
+.footer-cols{
+    display:grid;
+    grid-template-columns: repeat(4,1fr );
+    grid-gap:2rem;
+}
+.footer li{
+    line-height: 1.9rem;
+}
+
 @media all and (min-width: 1134px) and (max-width: 1280px) {
     .videoPic{
         width: 350px;
