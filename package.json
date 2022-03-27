@@ -21,6 +21,7 @@
     "tailwindcss": "^2.1.4"
   },
   "dependencies": {
-    "browserlist": "^1.0.1"
+    "browserlist": "^1.0.1",
+    "live-server": "^1.2.1"
   }
 }
